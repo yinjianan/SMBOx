@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="pull_refresh_textview">#000000</color>
+    <color name="gold">#000000</color>
+    <color name="skhd_group_line">#c7c8c9</color>
+    <color name="skhd_group_bg">#f9f9f9</color>
+    <color name="skhd_book_bg">#f8f6fa</color>
+    <color name="skhd_date">#53c2e9</color>
+    <color name="skhd_gray">#9aa1aa</color>
+    <color name="topbar_separator">#8B1A1A</color>
+    <color name="topbar_title">#FFFFFF</color>
+    <color name="topbar_background_start">#8B1A1A</color>
+    <color name="topbar_background_end">#CD2626</color>
+    <color name="topbar_background_item_pressed_start">#FF7F00</color>
+    <color name="topbar_background_item_pressed_end">#EE7600</color>
+    <color name="actionbar_separator">#8B1A1A</color>
+    <color name="actionbar_title">#FFFFFF</color>
+    <color name="actionbar_background_start">#e25e91</color>
+    <color name="actionbar_background_end">#e25e91</color>
+    <color name="actionbar_background_item_pressed_start">#FF7F00</color>
+    <color name="actionbar_background_item_pressed_end">#EE7600</color>
+    <color name="forget_pressed">#A2A2A2</color>
+    <color name="reg_normal">#0079FF</color>
+    <color name="reg_pressed">#0156b3</color>
+    <color name="gray">#C4C4C4</color>
+    <color name="blue">#33b5e5</color>
+    <color name="darkblue">#0099cc</color>
+    <color name="red">#ff4444</color>
+    <color name="grayStart">#adadad</color>
+    <color name="grayEnd">#ffffff</color>
+    <color name="bg_handle_pressed">#a0a0a0</color>
+    <color name="black_translucent">#50000000</color>
+    <color name="selector_ss_pressed">#9933cc</color>
+    <color name="selector_ss_default">#aa66cc</color>
+    <color name="selector_button_pressed">#9933cc</color>
+    <color name="selector_button_default">#aa66cc</color>
+    <color name="avatar_border">#FFFFFF</color>
+    <color name="list_item_pressed">#1A000000</color>
+    <color name="orange">#ffffdc7e</color>
+    <color name="grey">#ffd3d3d3</color>
+    <color name="green">#ff8dd304</color>
+    <color name="yellow">#fffffbae</color>
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="black_transparent">#80000000</drawable>
+    <color name="window_bg">#f5f5f5</color>
+    <color name="window_border">#CCCCCC</color>
+    <color name="generic_divider_list">#E6E7E6</color>
+    <color name="index_radios_item_bottom_checked">#6fba2c</color>
+    <!-- 标题栏颜色 -->
+    <color name="generic_title_bar_color">#6fba2c</color>
+
+    <!-- 透明色 -->
+    <color name="generic_transparent_color">#00000000</color>
+    <!-- 灰色 -->
+    <color name="generic_summary_new_color">#9B9B9B</color>
+    <!-- 纯黑 -->
+    <color name="generic_name_color">#000000</color>
+    <!-- 白色 -->
+    <color name="generic_white_color">#FFFFFF</color>
+    <!-- 暗灰色 -->
+    <color name="generic_summary_color">#999999</color>
+    <!-- 蓝色 -->
+    <color name="generic_type_color">#0079e0</color>
+    <color name="generic_action_download">#32b16c</color>
+    <color name="generic_single_game_type_color">#6fba2c</color>
+    <!-- 白色 -->
+    <color name="generic_funcspan_color">#FFFFFF</color>
+    <!-- 白色 -->
+    <color name="generic_sign_color">#FFFFFF</color>
+    <!-- 通用控件标识底色 -->
+    <drawable name="generic_sign_bg">#fe7414</drawable>
+    <!-- 红色 -->
+    <color name="generic_newgift_sign_color">#FF0000</color>
+    <!-- 黄色 -->
+    <color name="generic_g_color">#ec6941</color>
+    <!-- 透明色 -->
+    <color name="generic_dialog_bg_transparent">#00FFFFFF</color>
+    <!-- 淡 黑色 -->
+    <color name="generic_name_new_color">#525252</color>
+    <color name="button_text_color">#32b16c</color>
+    <color name="generic_divider_fliper">#7F8180</color>
+
+    <drawable name="rank_item_more_bg_pressed">#6fba2c</drawable>
+    <!-- 排行前三 色值 -->
+    <color name="rank_list_game_position_color_first">#ff0000</color>
+    <color name="rank_list_game_position_color_second">#ff8400</color>
+    <color name="rank_list_game_position_color_third">#ffc000</color>
+    <!-- 0分享 -->
+    <color name="share_transparent">#00000000</color>
+    <color name="share_white">#FFFFFF</color>
+    <color name="share_black">#ff313131</color>
+    <color name="share_gray">#EEEEE0</color>
+    <color name="share_blue">#6fba2c</color>
+    <color name="share_red">#FF3030</color>
+    <color name="share_gray_2">#f5f5f5</color>
+    <color name="share_gray_text">#9a9691</color>
+    <color name="share_title_text_new">#ff808080</color>
+    <color name="share_guide_bottom_txt_color">#ff20ceb7</color>
+    <color name="share_activity_bg">#ffe8eaed</color>
+    <!-- 手机插件色值 -->
+    <color name="ydsjws_text_color">#549b00</color>
+    <color name="ydsjws_btn_focuse">#769400</color>
+    <color name="ydsjws_btn_unfocuse">#94b800</color>
+    <color name="showcase_gomain_bg_normal">#55686868</color>
+    <color name="showcase_gomain_bg_pressed">#99686868</color>
+
+    <drawable name="generic_progressbar_horizontal_progress">#6fba2c</drawable>
+    <drawable name="generic_list_item_bg_normal">#FFFFFF</drawable>
+
+    <!-- 礼包按钮提示说明文字色值 -->
+    <color name="gift_button_tip_color_7c7c7c">#7c7c7c</color>
+    <color name="gift_button_tip_color_e80000">#e80000</color>
+
+    <!-- 财务管家 -->
+    <color name="steward_lables_color">#b15312</color>
+    <color name="steward_graph_color">#8ECE00</color>
+    <color name="steward_title_bg">#e7e7e7</color>
+
+    <!-- 手柄 -->
+    <color name="gamepad_background">#FFFFFF</color>
+    <color name="gamepad_splitline">#F2F2F2</color>
+    <color name="gamepad_connect_list_bg">#00FFFFFF</color>
+    <color name="gamepad_dialog_text">#1498CA</color>
+    <color name="game_group_content_color">#7a7a7a</color>
+    <color name="generic_benefit_background_color">#f5f5f5</color>
+    
+    <!-- 善跑 -->
+    <color name="migu_black">#333333</color>
+    <color name="migu_white">#ffffff</color>
+    <color name="migu_orange">#EF5D06</color>
+    <color name="migu_light_black">#606060</color>
+    <color name="transparent">#00000000</color>
+    <color name="tou_ming">#9000</color>
+    
+    <!-- 时间选择器 -->
+    <color name="split_line_gray">#B8B8B8</color>
+    <color name="picker_bar_bg">#F5F5F5</color>
+    <color name="deep_ss_gray">#333333</color>
+    <color name="light_gray">#b3b3b3</color>
+    <color name="light_s_gray">#cccccc</color>
+
+    <color name="personal_list_gray">#e5e5e5</color>
+    <color name="account_gray">#c0c0c0</color>
+    
+    
+    <color name="generic_marketing_text_color">#e96154</color>
+    <color name="generic_marketing_text_normal_color">#7a7a7a</color>
+    
+
+</resources>
